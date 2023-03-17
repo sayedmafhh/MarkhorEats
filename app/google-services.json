@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123226839973",
+    "project_id": "markhor-eats",
+    "storage_bucket": "markhor-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123226839973:android:0373bd1209c9143b4da64c",
+        "android_client_info": {
+          "package_name": "com.grocery.markhoreats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123226839973-2v9sgf5s846558l8o3b7524d3g9jdrqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.markhoreats",
+            "certificate_hash": "2a9b9f07418a7dcac01438c1468049c94f619c7f"
+          }
+        },
+        {
+          "client_id": "123226839973-is9hv6l4jt69po94hnq5r9q62oh3vr0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5wicFrrj0HYTHzUhuK1VCwod_rWapQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123226839973-is9hv6l4jt69po94hnq5r9q62oh3vr0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
